@@ -1,0 +1,20 @@
+baseURL = "https://turingwolf.github.io"
+headerFontSize = 128
+languageCode = "en-us"
+publishDir = ""
+theme = "skeletron"
+title = "turingwolf.github.io"
+[github]
+	owner_name = "turingwolf"
+	repository_name = "turingwolf.github.io"
+[menu]
+	[[menu.footer]]
+		identifier = "about"
+		name = "About"
+		url = "/about/"
+	[[menu.footer]]
+		identifier = "manual"
+		name = "Manual"
+		url = "/manual"
+[params]
+	project_name = "Skeletron"

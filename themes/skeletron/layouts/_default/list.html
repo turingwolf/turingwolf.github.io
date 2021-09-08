@@ -1,0 +1,14 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<ul>
+{{ range .Pages.ByPublishDate.Reverse }}
+  <li>
+    <time>{{ .Date.Format "Mon, 2 Januari 2006" }}</time>
+    <a href="{{ .RelPermalink }}" permalink="{{ .Permalink }}">
+      {{ .Title }}
+    </a>
+    <a ></a>
+  </li>     
+{{ end }}
+</ul>
+{{ end }}

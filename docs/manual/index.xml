@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuals on Template</title>
+    <link>http://localhost:50341/manual/</link>
+    <description>Recent content in Manuals on Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:50341/manual/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to deploy to Github</title>
+      <link>http://localhost:50341/manual/how-to-deploy-to-github/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50341/manual/how-to-deploy-to-github/</guid>
+      <description>&lt;p&gt;Hosting your blog in Github is free, even with your own domain. And we made it easy too. Here&amp;rsquo;s how you do it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:50341/manual/markdown/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50341/manual/markdown/</guid>
+      <description> Header 1 Header 2 Header 3 Header 4 Header 5 Header 6 Quotes  How I loathe heroes. Always getting in the way and acting so… so… heroic!
+ Lists  This is An unordered List   This is An ordered List  Text Styles Bold Italic Strike
+Media Apple
+Code This is code
+This is a piece of code in a block  </description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:50341/manual/hugo-shortcodes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50341/manual/hugo-shortcodes/</guid>
+      <description>&lt;p&gt;Hugo has a bunch of built in shortcodes that make it super easy to embed content. Here are some examples.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
